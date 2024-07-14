@@ -56,7 +56,3 @@ This project aims to create a pixel-perfect replica of the Telegram messaging ap
 - **Time Constraints:** Given the 48-hour limit, some advanced features may not be fully implemented.
 - **UI/UX:** Efforts have been made to match the Telegram UI/UX as closely as possible within the given time frame. Some animations are missing due to time constraints.
 - **API Integration:** Handled API integration to ensure data is fetched and displayed correctly.
-
-## About Me
-
-[My Portfolio](https://nazmul-nhb.vercel.app/)
