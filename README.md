@@ -1,12 +1,12 @@
-# Telegram Replica for BeyondChats
+# Telegram Clone for BeyondChats
 
 ## Overview
 
-This project aims to create a pixel-perfect replica of the Telegram messaging application, both in desktop and mobile views, using ReactJS. The design and functionality closely follow the actual Telegram UI/UX as possible.
+This project aims to create a pixel-perfect replica of the Telegram messaging application for both desktop and mobile views, using ReactJS. The design and functionality closely follow the actual Telegram UI/UX as possible.
 
 ## Live Link
 
-- [Telegram Replica](https://telegram-replica-nazmul.vercel.app)
+- [Telegram Clone](https://telegram-clone-sooty.vercel.app/)
 
 ## Features
 
@@ -21,12 +21,7 @@ This project aims to create a pixel-perfect replica of the Telegram messaging ap
 - Axios (for API requests)
 - React Router (for navigation)
 - Tailwind CSS (for styling)
-- React Icons
-- TanStack (React) Query (for data fetching and caching)
-- Moment.js (for time & date manipulation)
-- React Markdown (for rendering markdown)
-- React Helmet Async (for managing document head)
-- Rehype Raw and Remark GFM (for markdown processing)
+- React Icons etc.,
 
 ## Run the Project Locally
 
